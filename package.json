@@ -1,10 +1,10 @@
 {
-  "name": "card-demo-38",
+  "name": "card-demo-xx",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "export NODE_ENV && nodemon ./bin/www"
+    "dev": "nodemon ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -15,7 +15,7 @@
     "express": "^4.18.2",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.20",
+    "nodemon": "^2.0.22",
     "pg": "^8.9.0"
   }
 }
